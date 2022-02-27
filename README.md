@@ -8,7 +8,7 @@ Se encuentran las misiones del programa LaunchX-FrontEnd:
 
 Las katas son las siguientes:
 
-  - Semana 1 - Despegue 🚀 [Aquí](./Semana 1/)
+  - Semana 1 - Despegue 🚀 [Missions](./Semana 1/)
   - Semana 2 - Primer vuelo 🛸
 
 
